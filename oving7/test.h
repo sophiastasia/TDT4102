@@ -1,6 +1,5 @@
 #pragma once
-#include "Cat.h"
-#include "Dog.h"
+#include "Animal.h"
 #include "std_lib_facilities.h"
 
 void testAnimal();
